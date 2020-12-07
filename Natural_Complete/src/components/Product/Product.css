@@ -1,0 +1,46 @@
+.product {
+    display: inline-block;
+    background-color: white;
+    width: 250px;
+    height: 340px;
+    border: 1px solid rgb(63, 45, 45);
+    border-radius: 4px;
+    padding: 10px;
+    margin-right: 15px;
+    margin-bottom: 20px;
+    box-shadow: -1px 1px 2px 1px navy
+}
+
+.product:hover{
+    border: 1px solid gray;
+    box-shadow: -1px 1px 2px 1px orange;
+    cursor: pointer;
+    padding-right: 2px;
+}
+
+.product img {
+    width: 230px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.btn-add {
+    display: inline-block;
+}
+
+.value {
+    margin-right: 10px;
+    font-size: 16px;
+    color: blue;
+    font-weight: bold;
+}
+
+.price {
+    font-size: 14px;
+    color: darkred;
+    font-weight: bold;
+}
+
+
+
+

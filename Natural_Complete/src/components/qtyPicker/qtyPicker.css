@@ -1,0 +1,13 @@
+.qtyPicker button {
+    margin: 5px 10px;
+
+}
+
+.qtyPicker label{
+    font-weight: bold;
+    color: #333;
+}
+
+.qtyPicker {
+    display: inline-block;
+}
