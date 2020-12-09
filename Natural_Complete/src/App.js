@@ -15,7 +15,7 @@ function App() {
       <Navbar></Navbar>
 
       <h1>
-        Hello React!!
+        Natural Store
       </h1>
     <Catalog></Catalog>
       
